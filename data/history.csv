@@ -17,3 +17,5 @@ timestamp_utc,name,score,rs_rating,breakout_volume,vs_pivot_pct,status
 2026-10-04T14:04:12.698654,SBC Exports,49.4,94.0,2.54,18.9,Powering up
 2026-10-04T14:04:12.698654,Bliss GVS Pharma,43.1,98.0,11.4,-5.4,Cooling off
 2026-10-04T14:04:12.698654,LLOYDS ENGINEERING WORKS,40.1,92.0,8.24,12.0,Powering up
+2026-10-05T17:35:28.853160,India Homes,72.9,96.0,,4.75,Powering up
+2026-10-05T17:35:28.853160,band,54.4,82.0,,6.64,Powering up
